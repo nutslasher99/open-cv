@@ -18,3 +18,6 @@ try las nagdagdag a env ng C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\
 LAST NA C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\bin\python.exe sa env ulit
 
 SA VSCODE SHA GUMANA, MAY SIRA ANG AKING PYCHARM
+
+GITHUB REPOSITORY 
+https://github.com/nutslasher99/open-cv
