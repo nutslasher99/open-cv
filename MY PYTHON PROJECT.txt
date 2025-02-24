@@ -1,0 +1,20 @@
+install OpenCV
+encounter error when installig, kailangan updated pip, from ver 23 to 25 inupdate gamit ang (python -m pip install --upgrade pip) itatype sa terminal ng PyCharm
+
+error occurred parin uhuhuh TT
+error after error
+
+nagdl ng python 3.12
+
+nitry sa kivy
+inayos yung a "edit environment" nag new at nilagay ang directory na C:\Users\Lyzann\AppData\Local\Programs\Python\Python313\Scripts
+SUCCESS ABG OPEN CV AT KIVY pero sa mismon g python sha, 
+
+C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\bin\activate.bat
+C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\bin\python.exe C:\Users\Lyzann\AppData\Local\Programs\PyCharm Community\plugins\python-ce\helpers\packaging_tool.py install opencv-python
+
+try las nagdagdag a env ng C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\bin
+
+LAST NA C:\Users\Lyzann\PycharmProjects\PythonProject2\.venv\bin\python.exe sa env ulit
+
+SA VSCODE SHA GUMANA, MAY SIRA ANG AKING PYCHARM
